@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Springk8Application<springk8>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.springk8.Springk8Application",
+            "projectName": "springk8",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
